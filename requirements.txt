@@ -1,3 +1,4 @@
 pyTelegramBotAPI
-requests
 curl_cffi
+flask
+telethon
